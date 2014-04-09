@@ -1,0 +1,32 @@
+{
+  "name": "lascaux",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src/server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "*",
+    "browserify": "*",
+    "vinyl-source-stream": "*",
+    "gulp-uglify": "*",
+    "gulp-streamify": "*",
+    "gulp-sass": "*",
+    "debowerify": "*",
+    "gulp-jade": "*",
+    "jadeify": "*",
+
+    "jquery": "*",
+    "backbone": "*",
+    "pubsub-js": "*",
+    "knockout": "*",
+    "uuid": "*",
+    "underscore": "*",
+
+    "express": "*",
+    "mongoose": "*"
+  }
+}

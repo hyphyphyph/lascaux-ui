@@ -1,0 +1,23 @@
+{
+  "name": "lascaux",
+  "version": "0.0.0",
+  "authors": [
+    "Derek McTavish Mounce <d@lvst.co>"
+  ],
+  "main": "src/client/app.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pixi.js": "*"
+  }
+}
